@@ -1,9 +1,9 @@
 /**
- * Name: FIRST_NAME LAST_NAME
+ * Name: Jose Andres Leal
  * Course: CS-665 Software Designs & Patterns
- * Date: MM/DD/YYYY
+ * Date: 10/20/2026
  * File Name: Main.java
- * Description: Demonstrates basic Log4j logging.
+ * Description: Entry point for notification system. Tested using JUnit tests.
  */
 
 package edu.bu.met.cs665;
